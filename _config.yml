@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pavlos Kollias, Ph.D."
+title                    : "Pavlos Kollias"
 title_separator          : "-"
 name                     : &name "Pavlos Kollias"
 description              : &description "Postdoctoral Fellow at Center for Neural Science, in New York University"
